@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43f58497-9f28-44fb-83ca-b80835529d4f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/rules/no-warning-comments-regexp.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/rules/no-warning-comments-regexp.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/lib/rules/no-warning-comments-regexp.js" afterPath="$PROJECT_DIR$/lib/rules/no-warning-comments-regexp.js" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/tests/rules/no-warning-comments-regexp.js" afterPath="$PROJECT_DIR$/tests/rules/no-warning-comments-regexp.js" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,30 +20,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="no-warning-comments-regexp.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/rules/no-warning-comments-regexp.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-              <folding>
-                <marker date="1510844241929" expanded="true" signature="47:84" ph="{...}" />
-                <marker date="1510844241929" expanded="true" signature="103:1573" ph="{...}" />
-                <marker date="1510844241929" expanded="true" signature="115:768" ph="{...}" />
-                <marker date="1510844241929" expanded="true" signature="131:295" ph="{&quot;description&quot;: &quot;disallow specified warning terms in comments by regexp&quot;...}" />
-                <marker date="1510844241929" expanded="true" signature="313:762" ph="[...]" />
-                <marker date="1510844241929" expanded="true" signature="327:752" ph="{&quot;type&quot;: &quot;object&quot;...}" />
-                <marker date="1510844241929" expanded="true" signature="389:693" ph="{...}" />
-                <marker date="1510844241929" expanded="true" signature="418:582" ph="{&quot;type&quot;: &quot;array&quot;...}" />
-                <marker date="1510844241929" expanded="true" signature="490:560" ph="{&quot;type&quot;: &quot;string&quot;...}" />
-                <marker date="1510844241929" expanded="true" signature="613:675" ph="{&quot;type&quot;: &quot;string&quot;...}" />
-                <marker date="1510844241929" expanded="true" signature="802:1571" ph="{...}" />
-                <marker date="1510844241929" expanded="true" signature="1026:1458" ph="{...}" />
-                <marker date="1510844241929" expanded="true" signature="1087:1446" ph="{...}" />
-                <marker date="1510844241929" expanded="true" signature="1133:1432" ph="{...}" />
-                <marker date="1510844241929" expanded="true" signature="1170:1412" ph="{&quot;node&quot;: node...}" />
-                <marker date="1510844241929" expanded="true" signature="1316:1390" ph="{...}" />
-                <marker date="1510844241929" expanded="true" signature="1475:1564" ph="{&quot;BlockComment&quot;: checkComment...}" />
-              </folding>
+            <state relative-caret-position="398">
+              <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,48 +33,18 @@
       <file leaf-file-name="no-warning-comments-regexp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/rules/no-warning-comments-regexp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="34">
+              <caret line="2" column="55" lean-forward="false" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yarn.lock" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yarn.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LICENSE">
+      <file leaf-file-name="no-warning-comments-regexp.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/rules/no-warning-comments-regexp.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,6 +57,8 @@
       <find>config</find>
       <find>pugin</find>
       <find>repository</find>
+      <find>rulesDirPlugin</find>
+      <find>eslint</find>
     </findStrings>
     <replaceStrings>
       <replace>pugin</replace>
@@ -118,10 +71,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/rules/no-warning-comments-regexp.js" />
         <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.eslintrc.js" />
         <option value="$PROJECT_DIR$/tests/rules/no-warning-comments-regexp.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lib/rules/no-warning-comments-regexp.js" />
       </list>
     </option>
   </component>
@@ -173,6 +127,17 @@
             <path>
               <item name="eslint-plugin-sbtsbol" type="b2602c69:ProjectViewProjectNode" />
               <item name="eslint-plugin-sbtsbol" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eslint-plugin-sbtsbol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eslint-plugin-sbtsbol" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="rules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eslint-plugin-sbtsbol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eslint-plugin-sbtsbol" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -190,7 +155,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lib.ui" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../nodejs/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
@@ -226,16 +191,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510840831338</updated>
-      <workItem from="1510840832744" duration="4536000" />
+      <workItem from="1510840832744" duration="6959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4536000" />
+    <option name="totallyTimeSpent" value="6959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -243,7 +207,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921028" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34919125" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -266,6 +230,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3434">
+          <caret line="202" column="0" lean-forward="true" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/rules/no-warning-comments-regexp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="55" lean-forward="false" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="11" lean-forward="false" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -276,58 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/rules/no-warning-comments-regexp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <marker date="1510844241929" expanded="true" signature="47:84" ph="{...}" />
-            <marker date="1510844241929" expanded="true" signature="103:1573" ph="{...}" />
-            <marker date="1510844241929" expanded="true" signature="115:768" ph="{...}" />
-            <marker date="1510844241929" expanded="true" signature="131:295" ph="{&quot;description&quot;: &quot;disallow specified warning terms in comments by regexp&quot;...}" />
-            <marker date="1510844241929" expanded="true" signature="313:762" ph="[...]" />
-            <marker date="1510844241929" expanded="true" signature="327:752" ph="{&quot;type&quot;: &quot;object&quot;...}" />
-            <marker date="1510844241929" expanded="true" signature="389:693" ph="{...}" />
-            <marker date="1510844241929" expanded="true" signature="418:582" ph="{&quot;type&quot;: &quot;array&quot;...}" />
-            <marker date="1510844241929" expanded="true" signature="490:560" ph="{&quot;type&quot;: &quot;string&quot;...}" />
-            <marker date="1510844241929" expanded="true" signature="613:675" ph="{&quot;type&quot;: &quot;string&quot;...}" />
-            <marker date="1510844241929" expanded="true" signature="802:1571" ph="{...}" />
-            <marker date="1510844241929" expanded="true" signature="1026:1458" ph="{...}" />
-            <marker date="1510844241929" expanded="true" signature="1087:1446" ph="{...}" />
-            <marker date="1510844241929" expanded="true" signature="1133:1432" ph="{...}" />
-            <marker date="1510844241929" expanded="true" signature="1170:1412" ph="{&quot;node&quot;: node...}" />
-            <marker date="1510844241929" expanded="true" signature="1316:1390" ph="{...}" />
-            <marker date="1510844241929" expanded="true" signature="1475:1564" ph="{&quot;BlockComment&quot;: checkComment...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yarn.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/rules/no-warning-comments-regexp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding />
         </state>
       </provider>
