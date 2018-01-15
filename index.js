@@ -3,7 +3,8 @@
 const has = require('has');
 
 const allRules = {
-    'no-warning-comments-regexp': require('./lib/rules/no-warning-comments-regexp')
+    'no-warning-comments-regexp': require('./lib/rules/no-warning-comments-regexp'),
+    'jsx-no-tag-button-without-type': require('./lib/rules/jsx-no-tag-button-without-type')
 };
 
 function filterRules (rules, predicate) {
@@ -41,13 +42,19 @@ module.exports = {
                 'sbtsbol'
             ],
             rules: {
-                'sbtsbol/no-warning-comments-regexp': 2
+                'sbtsbol/no-warning-comments-regexp': 2,
+                'sbtsbol/jsx-no-tag-button-without-type': 1
             }
         },
         all: {
             plugins: [
                 'sbtsbol'
             ],
+            parserOptions: {
+                ecmaFeatures: {
+                    jsx: true
+                }
+            },
             rules: activeRulesConfig
         }
     }
